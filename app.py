@@ -6,6 +6,7 @@ home_page = st.Page("baseline/homepage.py", title="Home", icon=":material/home:"
 page_list.append(home_page)
 
 
+CHALLENGE_FOLDER
 CarraLee_page = st.Page("baseline/carralee_spain_challenge_page.py", title="Carra Lee's page", icon=":material/videogame_asset:")
 page_list.append(CarraLee_page)
 
