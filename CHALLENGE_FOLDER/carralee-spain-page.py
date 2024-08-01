@@ -46,7 +46,7 @@ st.write('Introduction to Coding course.  I took that early this spring, and fin
 st.write('as we were starting this UpSkilling program.  I was really excited when I learned about this')
 st.write('Citizen Development program, because it is perfect for my personal goals this year of updating my')
 st.write('skills! Unfortunately, our SPO program has not been trained enough yet for it to be great at')
-st.write('identifying and recommending courses to take, but I'm sure it will get better as we keep using it.')
+st.write('identifying and recommending courses to take, but I am sure it will get better as we keep using it.')
 st.write('Here is a link to a very basic Python program that I did as an early project in my "Code in Place"')
 st.write('course through Stanford <a href="https://codeinplace.stanford.edu/cip4/share/h25pEezoWb0YAm7svm7y" target="_blank"></a></sup>')
 st.write('It is a little arithmetic practice tool.')
