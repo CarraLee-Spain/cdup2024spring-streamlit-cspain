@@ -10,7 +10,8 @@ st.write('')
 
 # Here is a little bit about me and how to find me at Arcadis
 st.write('I am Carra Lee Spain, from Arcadis US, and I am very excited about all I am learning!')
-st.html('<sup> You can find me on our Collaboration hub at <a href="https://collaborationhub.arcadis.com/profile/b951f9f2-ccbc-4fe5-836c-162e84d7e583/contactdetails" target="_blank"></a></sup>')
+st.write('You can find me on our Collaboration hub at') 
+st.html('<a href="https://collaborationhub.arcadis.com/profile/b951f9f2-ccbc-4fe5-836c-162e84d7e583/contactdetails</a>')
 st.write('')
 st.write('')
 
@@ -21,7 +22,7 @@ st.write('There were many great things about this project, but the best was the 
 st.write('the facility was able to process 200 garbage trucks worth of waste and end up with only 2 trucks worth')
 st.write('of material that was not converted to energy or recycled in some way.')
 st.write('One of the exciting events was the excavation of the new Tipping Hall pit, which the general contractor')
-st.write('"("' 'not Arcadis' '")"' 'ended up electing to use blasting for because of the density of rock.')
+st.write('(not Arcadis")" ended up electing to use blasting for because of the density of rock.')
 st.html('<sup> If you are interested, you can see a video a couple of seconds long at <a href="https://arcadiso365.sharepoint.com/:v:/r/teams/project-30001651/mediagallery/Blast%203-6-17%204PM.mp4?csf=1&web=1&e=jlSo40&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank"></a></sup>')
 st.write('After excavating this massive pit, the general contractor poured a concrete slab roughly equivalent to a')
 st.write('football field in one pour, which required some unusal techniques.')
