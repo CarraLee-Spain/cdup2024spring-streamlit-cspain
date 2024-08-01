@@ -7,11 +7,11 @@ page_list.append(home_page)
 
 
 CHALLENGE_FOLDER
-CarraLee_page = st.Page("baseline/carralee-spain-page.py", title="Carra Lee's page", icon=":material/videogame_asset:")
+CarraLee_page = st.Page("CHALLENGE_FOLDER/baseline/carralee-spain-page.py", title="Carra Lee's page", icon=":material/videogame_asset:")
 page_list.append(CarraLee_page)
 
 
-Challenge_page = st.Page("CHALLENGE_FOLDER/my-challenge-page.py", title="Challenge page", icon=":material/insert_drive_file:")
+Challenge_page = st.Page("CHALLENGE_FOLDER/carralee-spain-page.py", title="Challenge page", icon=":material/insert_drive_file:")
 page_list.append(Challenge_page)
 
 pg = st.navigation(page_list)
