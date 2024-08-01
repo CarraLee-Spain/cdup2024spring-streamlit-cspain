@@ -17,7 +17,7 @@ st.write('')
 # Here is a bit about my start at Arcadis
 st.write('I have been with Arcadis since July 2015, and I have worked on some very interesting projects.')
 st.write('My first project at Arcadis was a renovation and expansion of a waste to energy facility in York, Pennsylvania')
-st.write('There were many great things about this project, but the best was the results.  After all was done,)
+st.write('There were many great things about this project, but the best was the results.  After all was done,')
 st.write('the facility was able to process 200 garbage trucks worth of waste and end up with only 2 trucks worth')
 st.write('of material that was not converted to energy or recycled in some way.')
 st.write('One of the exciting events was the excavation of the new Tipping Hall pit, which the general contractor')
