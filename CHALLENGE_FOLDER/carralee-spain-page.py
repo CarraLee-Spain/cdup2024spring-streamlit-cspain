@@ -32,7 +32,7 @@ st.write('plant incinerator and harvests all the viable aggregates, metals, and 
 st.write('')
 st.write('')
 
-*Here is a bit about my coding journey
+# Here is a bit about my coding journey
 st.write('Now for a bit about my coding journey!')
 st.write('I began  when my older brother gave me a Commodore 64 when I was in elementary school.')
 st.write('Everything I learned was trial and error and from the little booklet that came in the box.')
