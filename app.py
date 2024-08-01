@@ -7,7 +7,7 @@ page_list.append(home_page)
 
 
 CHALLENGE_FOLDER
-CarraLee_page = st.Page("CHALLENGE_FOLDER/baseline/carralee-spain-page.py", title="Carra Lee's page", icon=":material/videogame_asset:")
+CarraLee_page = st.Page("CHALLENGE_FOLDER/baseline/carralee-page.py", title="Carra Lee's page", icon=":material/videogame_asset:")
 page_list.append(CarraLee_page)
 
 
