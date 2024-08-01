@@ -56,8 +56,6 @@ def create_image(text_input:str, color_code:str):
 if name_var:
     # Generate a color code from the name
     color_code = string_to_color_code(name_var)
-    # Display the color code
-    st.write(f"Your color code is: {color_code}")
     # Assuming name_var and color_code are defined
     buffer_resized = create_image(name_var, color_code)
     # Display the resized image
