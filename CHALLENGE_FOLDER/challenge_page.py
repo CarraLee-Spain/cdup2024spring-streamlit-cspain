@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('Here was our Challenge!')
 st.subheader('Our turn to build something awesome!')
-st.write("________________________________________________________________________________________________________')
+st.write('________________________________________________________________________________________________________')
 
 st.title('Now to the Challenge!')
 st.subheader('It\'s your time to build something awesome!')
