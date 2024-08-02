@@ -91,6 +91,7 @@ st.write('')
 
 # Here is a bit about my coding journey
 st.write('Now for a bit about my coding journey!')
+st.image("https://i.etsystatic.com/11916450/r/il/4b7c67/888071688/il_794xN.888071688_gr60.jpg")
 st.write('I began  when my older brother gave me a Commodore 64 when I was in elementary school. Everything I learned was trial and error and from the little booklet that came in the box. I progressed to BASIC and DOS, then Pascal and a jump to Unix.  I moved away from coding after that and only used what I needed in my other work, such as writing Excel macros and incidental code here and there in a command window.  When our Arcadis Skills Powered Organization program launched, I was part of the pilot program and decided I needed to be intentional about bringing my skills up to date.')
 st.write('I searched for an online, FREE, coding course, and I found a Stanford University course "Code in Place", which is equivalent to the first half of their freshman level Introduction to Coding course.  I took that early this spring, and finished it at the end of May, as we were starting this UpSkilling program.  I was really excited when I learned about this Citizen Development program, because it fit perfectly with my goals this year of updating my skills!')
 st.write('')
